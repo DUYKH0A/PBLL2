@@ -63,5 +63,7 @@ void deleteAcc(string ID):Xóa tài khoản có ID đã cho=>cập nhật lại 
 void lichSuGiaoDich(): cho phép chọn và đọc từ file txt các lịch sư giao dịch
 void LockAcc(string ID):chức năng khóa Acc
 void UnLockAcc(string ID):chức năng mở khóa acc
+=>Bổ sung thêm các tính năng sau
+
 
 
